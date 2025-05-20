@@ -14,24 +14,6 @@ function App() {
         <button onClick={() => setcolor("black")} className="px-4 py-2 duration-500 bg-black border border-white outline-none rounded-3xl hover:bg-slate-700">BLACK</button>
         <button onClick={() => setcolor("green")} className="px-4 py-2 duration-500 border border-white outline-none rounded-3xl bg-lime-700 hover:bg-slate-700">GREEN</button>
       </div>
-              <div class="footer-bottom">
-                <span class="footer-text">
-                    Made with ❤️ by
-                    <a
-                        class="text-decoration-none"
-                        href="mailto:nehamehar31@gmail.com"
-                        target="_blank"
-                        style="color: white;"
-                        >Neha Mehar
-                    </a>
-                </span>
-                <a
-                    href="https://github.com/nehamehar/interactive-background-color-changer.git"
-                    target="_blank"
-                >
-                    <i class="fab fa-github" style="color: black;"></i>
-                </a>
-            </div>
     </div>
   )
 }
