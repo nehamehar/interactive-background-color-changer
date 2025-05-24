@@ -18,7 +18,7 @@ function App() {
   </div>
 
   {/* Footer pinned to bottom */}
-  <footer className="flex items-center justify-between w-full px-3 py-1 text-xs bg-gray-800 text-slate-500">
+  <footer className="flex items-center justify-between w-full px-3 py-1.5 text-xs bg-gray-800 text-slate-500">
     <p className="ml-[1105px]">
       Made with ❤️ by{" "}
       <a
@@ -35,7 +35,7 @@ function App() {
       target="_blank"
       rel="noopener noreferrer"
     >
-      <i className="text-white mr-28 fa-brands fa-github hover:text-slate-700 text-[28px]"></i>
+      <i className="text-white mr-36 fa-brands fa-github hover:text-slate-700 text-[28px]"></i>
     </a>
   </footer>
 </div>
