@@ -6,7 +6,7 @@ function App() {
     <div className="flex flex-col min-h-screen duration-500" style={{ backgroundColor: color }}>
   {/* Main content area */}
   <div className="flex-grow">
-    <div className="fixed inset-x-0 flex flex-wrap justify-center w-40 px-1 text-white h-[800px] pb-28 py-9 gap-7 bg-slate-900">
+    <div className="fixed inset-x-0 flex flex-wrap justify-center w-40 px-1 text-white h-[763px] pb-28 py-9 gap-7 bg-slate-900">
       <h2 className="pb-6 font-semibold text-balance-xl stroke-blue-950">COLORS</h2>
       <button onClick={() => setcolor("red")} className="px-10 py-1 bg-red-800 border border-black rounded-3xl hover:bg-slate-700">RED</button>
       <button onClick={() => setcolor("yellow")} className="py-1 bg-yellow-700 border px-7 rounded-3xl hover:bg-slate-700">YELLOW</button>
