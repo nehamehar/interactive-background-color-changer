@@ -18,7 +18,7 @@ function App() {
   </div>
 
   {/* Footer pinned to bottom */}
-  <footer className="flex items-center justify-between w-full px-3 py-1.5 text-base bg-gray-800 text-slate-500">
+  <footer className="flex items-center justify-between w-full px-3 py-2 text-base bg-gray-800 text-slate-500">
     <p className="ml-[199px]">
       Made with ❤️ by{" "}
       <a
