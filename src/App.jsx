@@ -23,7 +23,7 @@ function App() {
     <div className="flex-grow px-6 pt-10 md:pt-14 md:ml-56">
       <div className="flex flex-col mt-10">
         <h1 className="text-3xl font-extrabold text-slate-200">Color Picker</h1>
-        <p className="mt-7 text-slate-200">Choose a color from the sidebar to change the background.</p>
+        <p className="text-lg mt-7 text-slate-200">Choose a color from the sidebar to change the background.</p>
       </div>
     </div>
   </div>
