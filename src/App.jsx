@@ -29,10 +29,10 @@ function App() {
   </div>
 
   {/* Footer */}
-  <footer className="flex flex-wrap items-center justify-between w-full px-4 py-5 text-sm text-slate-400 bg-neutral-900">
+  <footer className="flex flex-wrap items-center justify-between w-full px-4 py-5 text-base text-slate-400 bg-neutral-900">
     <p className="flex items-center gap-1 mx-auto md:ml-[160px] md:mx-0">
       Made with <span className="text-lg text-red-500 animate-pulse">❤️</span> by{" "}
-      <a href="mailto:nehamehar31@gmail.com" className="text-xl text-slate-200" target="_blank" rel="noopener noreferrer">Neha</a>
+      <a href="mailto:nehamehar31@gmail.com" className="text-base text-slate-200" target="_blank" rel="noopener noreferrer">Neha</a>
     </p>
     <a
       href="https://github.com/nehamehar/interactive-background-color-changer"
