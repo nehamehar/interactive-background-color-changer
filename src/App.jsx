@@ -26,7 +26,7 @@ function App() {
         <p className="text-lg mt-7 text-slate-200">Choose a color from the sidebar to change the background.</p>
       </div>
     </div>
-  </div>
+  </div>  
 
   {/* Footer */}
   <footer className="flex flex-wrap items-center justify-between w-full px-4 py-5 text-base text-slate-400 bg-neutral-900">
